@@ -1,1 +1,1 @@
-# JavaScript-Ptograms
+# JavaScript-Programs
